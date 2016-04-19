@@ -63,7 +63,7 @@
 /* Containers */
 
 	.container {
-		margin-left: 4em; //auto;
+		margin-left: 6em; //auto;
 		margin-right: auto;
 	}
 
@@ -1831,7 +1831,7 @@
 }
 
 #left-panel>table>tbody>tr>td:hover{
-    background-color: #37c0fb;
+    background-color: rgba(52, 122, 151, 0.35);
 }
 
 
